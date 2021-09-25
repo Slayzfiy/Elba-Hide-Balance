@@ -5,3 +5,6 @@
 
 # Example
 ![example](https://i.imgur.com/BEMxs4m.png)
+
+### credits
+arrive.js: https://github.com/uzairfarooq/arrive
