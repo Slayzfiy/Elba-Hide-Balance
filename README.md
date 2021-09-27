@@ -3,6 +3,10 @@
  
 #### **Note**: If you click on the hidden balance, you can see balance again. 
 
+# How to use
+1. Download [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en)
+2. Copy main.js and paste it into a new script
+
 # Example
 ![example](https://i.imgur.com/BEMxs4m.png)
 
